@@ -4,13 +4,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Hapsari's Pet</title>
+    <title>Syerin's Pet</title>
     <link rel="stylesheet" href="{{ asset('assets/dist/css/bootstrap.min.css') }}">
     
 </head>
 <body>
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-                <a class="navbar-brand" href="#">Hapsari's Pet</a>
+                <a class="navbar-brand" href="#">Syerin's Pet</a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                   <span class="navbar-toggler-icon"></span>
                 </button>
@@ -35,8 +35,11 @@
   <div class="container ">
       <div class="row text-center p-5">
           <div class="col">
-              <h1 class="display-4">Welcome to Hapsari's Pet</h1>
-              <p class="lead">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Enim vitae nam corporis sint numquam fuga quam ipsa molestiae! Minus et inventore dolorum necessitatibus eaque voluptatem ratione placeat mollitia repellendus tempora?</p>
+              <h1 class="display-4">Welcome to Syerin's Pet</h1>
+              <p class="lead">
+              Lorem, ipsum dolor sit amet consectetur adipisicing elit. Enim vitae nam corporis sint numquam fuga quam ipsa molestiae! Minus et inventore dolorum necessitatibus eaque voluptatem ratione placeat mollitia repellendus tempora?</p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa quod esse enim harum numquam! Nihil nesciunt unde id ad? Et consequatur eius necessitatibus, nesciunt excepturi alias. Dicta sint impedit saepe.
+              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Id ab accusantium, quae accusamus fugiat iste, illum quo, esse at cupiditate perferendis adipisci voluptatum dolorem laudantium perspiciatis distinctio impedit minima delectus.
           </div>
       </div>
       
