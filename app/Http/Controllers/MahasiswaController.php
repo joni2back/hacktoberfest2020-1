@@ -3,17 +3,20 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
+use Illuminate\Http\RedirectResponse;
+use Illuminate\View\View;
 use App\Mahasiswa;
 use Hash;
 
 class MahasiswaController extends Controller
 {
-    public function facebook(){
+    public function facebook(): View
+    {
         return view('welcome');
     }
 
-    public function register(Request $request){
-        
+    public function register(Request $request): RedirectResponse
+    {
         Mahasiswa::create([
             'nama' => $request->nama,
             'username' => $request->username,
